@@ -1,11 +1,14 @@
 # Age Computation C++ Console Application
 ![Constant Time](https://github.com/kastilyojl/Time-Complexity/assets/168294227/43beba06-eb7e-489e-a3d3-064d4aa4586d)
 
-## Pre-requisites
-- Download and Install [Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/)
+## Description
+- Using Big O Notation, which calculates execution times as a function of input size depending on the action selected, this C++ project calculates execution times as follows: input number for constant time (0(1)), list of arrays for linear time (O(n)), sort for quadratic time (O(n^2)), and search for logarithmic time (O(log n)). In my second year of college, I worked on this project as my final output in the integration of my two subjects: object-oriented programming, algorithms, and time complexity.
 
+## Pre-requisites
+- Download and Install [Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/).
+- 
   **Microsoft Visiual Studio Tools & Framework**
-  - Download & Install .Net desktop development inside Microsoft Visual Studio
+  - Download & Install .Net desktop development inside Microsoft Visual Studio.
 
 ## Setup 
 - Download the files.
