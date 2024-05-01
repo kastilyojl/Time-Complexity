@@ -15,7 +15,7 @@
 - Open the downloaded files in Microsoft Visual Studio.
 
 Note: Change the value of currentMonth, currentYear, and currentDate in the [Birthday.h] file according to the current complete date.
-- Run the program [Final Project-OOPTMCMPLXTY.cpp].
+- Run the program.
 
 ## Watch the full video below:
 [Age Computation in C++ using Microsoft Visual Studio - Algorithm & Time Complexity](https://youtu.be/XJ-OfB6JiG4)
