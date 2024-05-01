@@ -10,6 +10,8 @@ public: // access modifier
 
     string month[12] = { "January","February","March","April","May","June",
                        "July","August","September","October","November","December" };
+    
+    //  change these value according to the current month, year, and date
     int currentMonth = 1, currentYear = 2023;
     int currentDate = 27;
     
